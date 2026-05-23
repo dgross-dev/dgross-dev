@@ -6,7 +6,7 @@ Software Developer based in Munich, Germany.
 - 🎓 B.Sc. Applied Computer Science (in progress)
 - 💼 Working Student in IT Architecture & Project Management
 - 💻 Software Development with focus on Frontend
-- 🛠️ Tech Stack: c#, Python, .NET, PowerShell, DevOps
+- 🛠️ Tech Stack: C#, Python, .NET, PowerShell, DevOps
 - 🌍 Languages: German (native), English
 
 ### Current Project
@@ -23,7 +23,7 @@ Software Developer aus München.
 - 🎓 B.Sc. Angewandte Informatik (in Bearbeitung)
 - 💼 Werkstudent IT-Architektur & Projektmanagement
 - 💻 Softwareentwicklung mit Schwerpunkt Frontend
-- 🛠️ Tech Stack: c#, Python, .NET, PowerShell, DevOps
+- 🛠️ Tech Stack: C#, Python, .NET, PowerShell, DevOps
 - 🌍 Sprachen: Deutsch (Muttersprache), Englisch
 
 ### Aktuelles Projekt

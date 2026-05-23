@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm David 👋
 
-<!--
-**dgross-dev/dgross-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer based in Munich, Germany.
 
-Here are some ideas to get you started:
+- 🎓 B.Sc. Business Informatics (2025)
+- 🎓 B.Sc. Applied Computer Science (in progress)
+- 💼 Working Student in IT Architecture & Project Management
+- 🛠️ Focus: Frontend, Python, .NET, PowerShell, DevOps
+- 🌍 Languages: German (native), English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Project
+
+🎵 **[yt-audio-downloader](https://github.com/dgross-dev/yt-audio-downloader)** — Cross-platform GUI for downloading audio from YouTube (FLAC 24-bit / MP3 320), with i18n, auto-update and bundled ffmpeg
+
+## Hi, ich bin David 👋
+
+Software Developer aus München.
+
+- 🎓 B.Sc. Wirtschaftsinformatik (2025)
+- 🎓 B.Sc. Angewandte Informatik (in Bearbeitung)
+- 💼 Werkstudent IT-Architektur & Projektmanagement
+- 🛠️ Schwerpunkte: Frontend, Python, .NET, PowerShell, DevOps
+- 🌍 Sprachen: Deutsch (Muttersprache), Englisch
+
+### Aktuelles Projekt
+
+🎵 **[yt-audio-downloader](https://github.com/dgross-dev/yt-audio-downloader)** — Cross-platform GUI für YouTube-Audio-Downloads (FLAC 24-bit / MP3 320), mit i18n, Auto-Update und gebündeltem ffmpeg
+
